@@ -1,4 +1,3 @@
-console.log("hello world");
 
 function myFunction(){
     let height = document.getElementById("cm-height").value/100;
