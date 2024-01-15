@@ -1,7 +1,8 @@
 body {
-  background: url(bmi.jpg);
+  background: url(bmi2.jpg);
   color: black;
   background-size: cover;
+  opacity: 1.5;
 }
 #website-content {
   display: flex;
@@ -17,12 +18,20 @@ h2 {
   font-family: "Raleway";
   color: black;
 }
+.heading-text p {
+  font-weight: 700;
+  color: blue;
+}
 .form-part {
   display: flex;
   flex-direction: column;
   font-family: "Raleway";
   justify-content: center;
   align-items: center;
+  font-weight: 700;
+  font-size: 2rem;
+  color: rgb(208, 12, 25);
+  border: 2px solid black;
 }
 input {
   margin-top: 5px;
