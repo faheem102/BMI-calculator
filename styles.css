@@ -50,6 +50,7 @@ button {
   border-radius: 6px;
 }
 #results {
+  color: blueviolet;
   margin-top: 10px;
   font-size: 1.5rem;
   font-weight: 700;
